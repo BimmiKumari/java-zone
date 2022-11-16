@@ -1,0 +1,16 @@
+package firstt;
+
+public class Char {
+	 String color="white";
+	 String make="honda";
+	 String type="sun";
+	 
+
+	public void display() {
+		// TODO Auto-generated method stub
+ System.out.println("i have a "+make+" "+type+" of "+color+" colour");
+ 
+	}
+
+}
+
